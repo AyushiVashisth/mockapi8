@@ -1,0 +1,203 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Garwin",
+      "userAvatar": "http://dummyimage.com/185x100.png/cc0000/ffffff",
+      "email": "gmacscherie0@google.com",
+      "password": "4cdD9Cc"
+    },
+    {
+      "id": 2,
+      "username": "Rinaldo",
+      "userAvatar": "http://dummyimage.com/133x100.png/ff4444/ffffff",
+      "email": "rmunford1@wired.com",
+      "password": "oXg4xvDzdAe"
+    },
+    {
+      "id": 3,
+      "username": "Obidiah",
+      "userAvatar": "http://dummyimage.com/134x100.png/ff4444/ffffff",
+      "email": "oshillinglaw2@dmoz.org",
+      "password": "tgZLHzOU0e2"
+    },
+    {
+      "id": 4,
+      "username": "Marcellus",
+      "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpgnDescription",
+      "email": "mtackett3@bigcartel.com",
+      "password": "BzY6E85iwMz"
+    },
+    {
+      "id": 5,
+      "username": "Dimitri",
+      "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "email": "dchimenti4@multiply.com",
+      "password": "PZ9ybDcH"
+    },
+    {
+      "id": 6,
+      "username": "Pamela",
+      "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "email": "pmeeron5@nifty.com",
+      "password": "qxA8xIc5bBE"
+    },
+    {
+      "id": 7,
+      "username": "Hatti",
+      "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "email": "htuffield6@disqus.com",
+      "password": "1C2HL3"
+    },
+    {
+      "id": 8,
+      "username": "Jada",
+      "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "email": "jkrimmer7@theguardian.com",
+      "password": "Z8XaR8zqw"
+    },
+    {
+      "id": 9,
+      "username": "Constance",
+      "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "email": "chellyer8@samsung.com",
+      "password": "MA9pz2o"
+    },
+    {
+      "id": 10,
+      "username": "Andeee",
+      "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "email": "aadshede9@forbes.com",
+      "password": "35SGs45VbA"
+    },
+    {
+      "username": "ayushi",
+      "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "email": "ayushi@gmail.com",
+      "password": "ayushi",
+      "id": 11
+    }
+  ],
+  "forum": [
+    {
+      "question": {
+        "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+        "username": "JohnDoe123",
+        "questionTitle": "How to sort an array in JavaScript?",
+        "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+        "language": "JavaScript",
+        "upvotes": 10,
+        "answers": 3,
+        "postedDate": "2023-05-30"
+      },
+      "answers": [
+        {
+          "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "username": "JaneSmith456",
+          "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+          "postedDate": "2023-05-31"
+        },
+        {
+          "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "username": "SamJohnson789",
+          "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+          "postedDate": "2023-06-01"
+        },
+        {
+          "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "username": "EmilyBrownXYZ",
+          "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+          "postedDate": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "question": {
+        "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+        "username": "JohnDoe123",
+        "questionTitle": "How to sort an array in JavaScript?",
+        "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+        "language": "Java",
+        "upvotes": 10,
+        "answers": 3,
+        "postedDate": "2023-05-30"
+      },
+      "answers": [
+        {
+          "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "username": "JaneSmith456",
+          "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+          "postedDate": "2023-05-31"
+        },
+        {
+          "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "username": "SamJohnson789",
+          "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+          "postedDate": "2023-06-01"
+        },
+        {
+          "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "username": "EmilyBrownXYZ",
+          "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+          "postedDate": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "id": 1685784743493,
+      "question": {
+        "questionTitle": "Ayushi",
+        "questionDescription": "What is Python?",
+        "language": "Python",
+        "upvotes": 0,
+        "answers": 0,
+        "postedDate": "2023-06-03T09:32:23.493Z"
+      },
+      "answers": [],
+      "questionTitle": "New questionTitle"
+    },
+    {
+      "id": 1685785268909,
+      "question": {
+        "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+        "username": "ayushi",
+        "questionTitle": "java",
+        "questionDescription": "What is java",
+        "language": "Java",
+        "upvotes": 0,
+        "answers": 0,
+        "postedDate": "2023-06-03T09:41:08.909Z"
+      },
+      "answers": []
+    },
+    {
+      "question": {
+        "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+        "username": "ayushi",
+        "questionTitle": "C++",
+        "questionDescription": "C++",
+        "language": "C++",
+        "upvotes": 0,
+        "answers": 0,
+        "postedDate": "2023-06-03T09:52:28.588Z"
+      },
+      "answers": [],
+      "id": 1685785268910,
+      "questionTitle": "New question title"
+    },
+    {
+      "question": {
+        "userAvatar": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+        "username": "ayushi",
+        "questionTitle": "Ayushu",
+        "questionDescription": "Ayushi",
+        "language": "Python",
+        "upvotes": 0,
+        "answers": 0,
+        "postedDate": "2023-06-03T10:07:33.117Z"
+      },
+      "answers": [],
+      "id": 1685785268911
+    }
+  ]
+}
